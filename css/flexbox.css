@@ -1,0 +1,12 @@
+.cabecera_container{
+    display: flex;
+
+}
+.logo_item{
+    margin-right: 200px;
+
+}
+
+.cabecera_buscar_item{
+    margin-right: 200px;
+}
